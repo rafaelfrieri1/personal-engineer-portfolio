@@ -1,8 +1,6 @@
 # personal-engineer-portfolio
 This is my engineering web page and portfolio! Feel free to zoom in it and get to know me a little bit more!
 
-This template should help get you started developing with Vue 3 in Vite.
-
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
